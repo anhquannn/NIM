@@ -1,0 +1,3 @@
+﻿  NIMGame.cpp
+E:\Năm 3\Đồ án tin học\NIM - Perfect\NIM test\NIMGame.cpp(145,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  NIM test.vcxproj -> E:\Năm 3\Đồ án tin học\NIM - Perfect\x64\Debug\NIM test.exe
